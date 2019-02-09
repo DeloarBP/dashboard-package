@@ -1,0 +1,19 @@
+{
+    "name": "dashboard/package",
+    "description": "This is Pesrsonal Design Dashboard",
+    "type": "laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "DelaorBP",
+            "email": "mddeloar.pro@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+     "autoload": {
+        "psr-4": {
+            "DeloarBP\\Dashboard\\": "src"
+        }
+    },
+}
