@@ -1,5 +1,5 @@
 {
-    "name": "dashboard/package",
+    "name": "dashboards/package",
     "description": "This is Pesrsonal Design Dashboard",
     "type": "laravel",
     "license": "MIT",
